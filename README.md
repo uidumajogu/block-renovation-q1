@@ -16,7 +16,6 @@ npm install
 ```
 
 - Run `npm test`
-  Run `npm test`
 
 ```bash
 npm test
