@@ -1,0 +1,27 @@
+{
+  "name": "block-renovation-q1",
+  "version": "1.0.0",
+  "description": "Coding + Complexity assessment for block renovation",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "tsc && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uidumajogu/block-renovation-q1.git"
+  },
+  "author": "Uneku Idumajogu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uidumajogu/block-renovation-q1/issues"
+  },
+  "homepage": "https://github.com/uidumajogu/block-renovation-q1#readme",
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^28.0.8",
+    "ts-jest": "^28.0.8",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
